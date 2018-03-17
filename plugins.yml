@@ -1,0 +1,6 @@
+plugins:
+  CustomBoard:
+    name: CustomBoard
+    author: 羽泽
+    version: 1.0
+    download-url: 'https://raw.githubusercontent.com/aGua1/PluginManager/master/plugins/CustomBoard/v1.0/CustomBoard.jar'
